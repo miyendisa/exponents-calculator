@@ -5,7 +5,7 @@
 
 ## Details
 Program takes the base number (x) and the exponent (n) from the user and prints
-the answer on the terminal.
+the answer (x^n) on the terminal.
 
 ---
 
